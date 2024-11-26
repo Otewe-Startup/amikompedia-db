@@ -1,1 +1,7 @@
--- test
+CREATE TABLE  (
+    id SERIAL PRIMARY KEY,
+    full_name VARCHAR (255),
+    email UNIQUE VARCHAR (255) UNIQUE,
+    nim UNIQUE VARCHAR (255) UNIQUE,
+    password VARCHAR (255)
+);
