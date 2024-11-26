@@ -1,0 +1,2 @@
+Database AmikomPedia
+Postgresql
